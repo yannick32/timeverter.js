@@ -1,6 +1,6 @@
 import { PrimitivePeriod } from "./PrimitivePeriod.js";
 import { TimeUnit } from "./TimeUnit.js";
-import { Timeverter } from "./Timeverter.js";
+import { Timeverter } from "./timeverter.js";
 
 
 let timeUnits = [];
